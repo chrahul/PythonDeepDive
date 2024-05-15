@@ -1,5 +1,8 @@
 Understanding Programming Languages: An In-Depth Exploration
 
+![image](https://github.com/chrahul/PythonDeepDive/assets/14847377/844e13b1-916a-494b-a787-01b67fbd52c5)
+
+
 **1. Language and Programming:**
    - **Language**: Humans communicate using natural languages like English, Hindi, etc. Similarly, machines have their own languages.
    - **Programming**: It involves devising step-by-step procedures to solve problems. For example, finding the sum of two numbers or sorting a list of items.
