@@ -1,6 +1,6 @@
 Understanding Programming Languages: An In-Depth Exploration
 
-![image](https://github.com/chrahul/PythonDeepDive/assets/14847377/844e13b1-916a-494b-a787-01b67fbd52c5)
+
 
 
 **1. Language and Programming:**
