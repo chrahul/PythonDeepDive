@@ -8,6 +8,9 @@ Setting Up Python and IDs: A Step-by-Step Guide
    - Once downloaded, double click the installer and follow the prompts to install Python.
    - Python will be installed on your machine, and you'll find it in the Start Menu under "Python".
 
+![image](https://github.com/chrahul/PythonDeepDive/assets/14847377/713fdcb7-8bbc-4abe-95b9-ad2ab7e7a817)
+
+
 2. **Using Python Shell**:
    - Python Shell is a playground where you can execute Python statements and see instant results.
    - It's not for writing complete programs but for testing and practicing Python statements.
