@@ -50,6 +50,52 @@ def greet(name):
     return f"Hello, {name}!"
 ```
 
+In Python, the `return` statement is used to exit a function and send a value back to the caller. The syntax of the `return` statement consists of the keyword `return` followed by an expression. Here’s a breakdown of the syntax in the provided function:
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+```
+
+1. **`def greet(name):`**:
+   - `def` is a keyword used to define a function.
+   - `greet` is the name of the function.
+   - `name` is a parameter that the function accepts.
+
+2. **`return f"Hello, {name}!"`**:
+   - `return` is a keyword that specifies the value to be returned from the function.
+   - `f"Hello, {name}!"` is an f-string (formatted string literal) that creates a string by inserting the value of `name` into the placeholder `{name}`.
+   
+   When the `greet` function is called with an argument, the `return` statement will execute, and the f-string will be evaluated to a string like `"Hello, John!"`, which is then returned to the caller.
+
+Here's a detailed explanation of each component in the `return` statement:
+
+- **`return`**: This keyword exits the function and optionally passes back an expression to the caller. If `return` is followed by an expression, the function will return the value of that expression. If no expression is specified, the function will return `None`.
+
+- **`f"Hello, {name}!"`**: This is an f-string, which allows for the inclusion of expressions inside string literals, using curly braces `{}`. In this case, `{name}` is a placeholder that will be replaced by the value of the `name` parameter passed to the `greet` function.
+
+### Example Usage
+
+```python
+# Define the function
+def greet(name):
+    return f"Hello, {name}!"
+
+# Call the function and print the result
+print(greet("Alice"))  # Output: Hello, Alice!
+print(greet("Bob"))    # Output: Hello, Bob!
+```
+
+In this example, calling `greet("Alice")` will return the string `"Hello, Alice!"`, and calling `greet("Bob")` will return the string `"Hello, Bob!"`. The `print` function is used to display these returned values.
+
+
+
+
+
+
+
+
+
 #### Calling a Function
 ```python
 print(greet("Rahul"))  # Output: Hello, Rahul!
