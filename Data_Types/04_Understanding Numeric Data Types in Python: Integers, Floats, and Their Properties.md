@@ -92,4 +92,4 @@ Next, we’ll explore boolean and complex data types in more detail.
 
 --- 
 
-This revised version presents the concepts in a clear, structured manner while maintaining the technical depth.
+
